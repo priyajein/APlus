@@ -1,0 +1,7 @@
+websockets
+pymupdf
+python-pptx
+crewai
+requests
+python-dotenv
+asyncio

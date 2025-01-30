@@ -1,0 +1,24 @@
+{
+    "topic": "Introduction to Probability Theory",
+    "slides": 20,
+    "format": "bullet_points",
+    "tone": "educational",
+    "structure": [
+      {"title": "Introduction to Probability", "keywords": ["definition", "importance", "applications"]},
+      {"title": "Basic Probability Concepts", "keywords": ["experiment", "sample space", "event"]},
+      {"title": "Types of Events", "keywords": ["independent", "dependent", "mutually exclusive"]},
+      {"title": "Probability Rules", "keywords": ["addition rule", "multiplication rule", "conditional probability"]},
+      {"title": "Bayes' Theorem", "keywords": ["formula", "examples", "real-world applications"]},
+      {"title": "Probability Distributions", "keywords": ["binomial", "poisson", "normal distribution"]},
+      {"title": "Expected Value & Variance", "keywords": ["mean", "standard deviation", "applications"]},
+      {"title": "Real-World Applications", "keywords": ["statistics", "AI", "finance", "gaming"]}
+    ],
+    "visuals": {
+      "charts": true,
+      "diagrams": true,
+      "examples": true
+    },
+    "summary": "Each slide should focus on key probability concepts, using simple language and visuals."
+  }
+  
+  
